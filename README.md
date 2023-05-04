@@ -1,3 +1,19 @@
 # Crypto Wallet Mnemonic Phrase To Private Key Converter
 A python code to derive from mnemonic phrase to private key and get public address from private key.
 
+# Requirements
+
+1. web3 module
+2. python version 3.10.6
+
+
+# How To?
+
+step-0 : clone the repo
+step-1 : Install web3 module using command -> pip install web3
+step-2 : run "mnemonic_to_key.py" file using command -> python mnemonic_to_key.py
+
+
+And finally congrats :)
+
+
