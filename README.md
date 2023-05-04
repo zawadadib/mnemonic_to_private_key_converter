@@ -14,6 +14,7 @@ A python code to derive from mnemonic phrase to private key and get public addre
 3. run "mnemonic_to_key.py" file using command -> python mnemonic_to_key.py
 
 
+
 And finally congrats :)
 
 
