@@ -18,3 +18,6 @@ A python code to derive from mnemonic phrase to private key and get public addre
 And finally congrats :)
 
 
+i will make an app soon 
+
+
